@@ -1,6 +1,5 @@
-# ticket_app
+# Ticket Application
 
-TicketApplication
 TicketApplication developed based on Spring Boot Version (2.1.2.RELEASE) and uses in memory data base H2
 Ticket application provide rest services to view reservation, hold seats for a certain duration and auto free up seats which are on hold for a certain duration.
 Self runnable application can be executed on any IDE where maven dependencies are configured. This application required Java 8 as the minimum requirement to run.
